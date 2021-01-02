@@ -2,5 +2,5 @@
 ## Ėjimo su grįžimu algoritmas
 * Norint peržiūrėti c++ kodą, geriausiai patariu tiesiog apžiūrėti jį github platformoje.
 * Norint paleisti jį su kompiliatoriumi, patariu pirma susikurti projektą jūsų kompiliatoriuje, tada tiesiog nukopijuoti kodą.
-* Jei turite "Visual Studio", galite dešinėje spausti releases, tada pasirinkti backtracking. Parsisiuntus išarchyvuoti ir paleisti .sln failą.
+* Jei turite "Visual Studio", galite dešinėje spausti releases, tada po backtracking skiltimi spausti source code. Parsisiuntus išarchyvuoti ir paleisti .sln failą.
 * .exe failą galima rasti aukščiau. Paspaudus ant jo spausti download.
