@@ -1,7 +1,6 @@
-# Algoritmu-teorija
-Matas Amšiejus, DM2 2 kursas
-## Paaiškinimai
-* Vietoje master šakos pasirinkti norimą šaką (backtracking / godus)
-* Norint parsisiųsti visus failus spausti ant nuorodos į projektą.
-* Jei norima nukopijuoti tik C++ kodą, tą galima padaryti einant į aplanką amsiejus_backtracking/amsiejus_godus -> amsiejus_backtracking.cpp (galima arba parsisiųsti, arba nukopijuoti tiesiai į jūsų naudojamą kompiliatorių).
-* .exe failai bus pagrindiniame aplanke.
+# Euristinis
+## Godus algoritmas
+* Norint peržiūrėti c++ kodą, geriausiai patariu tiesiog apžiūrėti jį github platformoje.
+* Norint paleisti jį su kompiliatoriumi, patariu pirma susikurti projektą jūsų kompiliatoriuje, tada tiesiog nukopijuoti kodą.
+* Jei turite "Visual Studio", galite spausti ant nuorodos žemiau, tada kakaskkak. Parsisiuntus išarchyvuoti ir paleisti .sln failą.
+* .exe failą galima rasti aukščiau.
